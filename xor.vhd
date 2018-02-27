@@ -1,5 +1,5 @@
 -- File: xor.vhd  
--- labas
+-- Aivaras Virsila Ef16-2
 library ieee;
 use ieee.std_logic_1164.all;
 
